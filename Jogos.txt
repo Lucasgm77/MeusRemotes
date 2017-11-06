@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 1- Counter-Strike: Global Offensive
 2- League of Legends
 3- Battlerite
@@ -8,3 +9,15 @@
 8- Call of Duty: Modern Warfare 2
 9- Dota
 10- Playerunknown's Battleground
+=======
+1- Battlegrounds
+2- Grand Theft Auto V
+3- The Witcher 3
+4- Counter Strike: Global Offensive
+5- LIMBO
+6- Left4Dead 2
+7- Stick Fight
+8- Far Cry 5
+9- Broforce
+10- FlatOut 2
+>>>>>>> Carlos/master
